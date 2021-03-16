@@ -1,5 +1,5 @@
 # Keras-NN-Digits-recognition
-0. [Set-up](#Set-up)
+[Set-up](#Set-up)
 
 ## Set-up
 Get python if you need -
