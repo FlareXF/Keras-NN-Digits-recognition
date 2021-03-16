@@ -8,5 +8,4 @@ just a piece of sh
 
 ## Compiled version
 if u dont know wtf is going on  
-  
 [Download](https://drive.google.com/file/d/1V27dBRnh5YruamfYAmXJH66z3F_S8KeT/view?usp=sharing)
