@@ -6,6 +6,6 @@
 2. Download those libs(put that elvish shit to concole) - pip3 install pygame numpy scipy keras
 3. That's it 
 
-## Compiled version
+## Compiled version for windows
 ###### *if u dont know wtf is going on*  
 [Download](https://drive.google.com/file/d/1V27dBRnh5YruamfYAmXJH66z3F_S8KeT/view?usp=sharing)
